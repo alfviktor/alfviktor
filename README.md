@@ -1,7 +1,7 @@
 ## Founder of Zero One Labs LLC
 
 Building: 
-* http://alma.app
 * https://www.01.inc/
-* http://earnba.se
+* https://cocentives.com
+* http://alma.app
 * https://mindvisuals.com
