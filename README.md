@@ -1,7 +1,7 @@
 Building: 
-* https://www.01.inc/
+* https://01.inc/
 * https://cocentives.com
-* https://www.reach.computer/
+* https://reach.computer/
 * http://alma.app
 * https://mindvisuals.com
 
@@ -26,15 +26,13 @@ Eliminated 23 hrs/week manual work, 99% data accuracy
 
 ### In idea phase
 
-**Alma** - AI teaching assistant deployed in Oslo schools  
-80% reduction in teacher planning time, 1000+ weekly sessions  
-* https://almaskole.no/
+**Worksets** - Multimodal data science for mere mortals.
 
 ### Stack
 
-Next.js, TypeScript, Postgres, Claude API, Trigger.dev, Python.
+Next.js, TypeScript, Postgres, Agent SDK, Trigger.dev, Python, 01 SDK.
 
 ### Contact
 
-* https://www.01.inc/
+* https://01.inc/
 * alf @ 01.inc
