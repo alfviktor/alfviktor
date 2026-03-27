@@ -1,38 +1,26 @@
-Building: 
-* https://01.inc/
-* https://cocentives.com
-* https://reach.computer/
-* http://alma.app
-* https://mindvisuals.com
+## Alf Viktor Williamsen
 
-## Founder of Zero One Labs LLC
-
-Product designer who codes. Building AI products that solve problems.
-Self-taught in everything I do, since 12.
+Engineer building AI systems in production. Self-taught since 12.
 
 ### In Production
 
-**Cocentives** - Commission calculation for insurance agencies  
-Cocentives uses 20 minutes, compared to the weekend-long manual spreadsheet work.
-* https://cocentives.com
+**Substrate CAI** — Commission reconciliation platform for a Norwegian insurance agency.
+Python/FastAPI backend, AI agents with MCP servers, RAG document processing, natural language data queries. Handles 92 agents, 31,000+ deals (223M NOK).
+Stack: Python/FastAPI, Next.js, PostgreSQL, Claude Agent SDK, E2B.
+* https://substrate.no
 
-**Caval Insurance** - Invoice automation  
-Eliminated 23 hrs/week manual work, 99% data accuracy  
-* Live system (private)
+**Alma** — AI teaching assistant deployed in Oslo schools. Built the teacher-facing interface (React).
 
-**Mind Visuals** - Archived project
-#5 Product Hunt, 3.2k users, 12% conversion rate  
-* https://mindvisuals.com
+### Writing
 
-### In idea phase
-
-**Worksets** - Multimodal data science for mere mortals.
+Posts on production AI systems: RAG pipelines, agent orchestration, data processing.
+* https://blog.01.inc
 
 ### Stack
 
-Next.js, TypeScript, Postgres, Agent SDK, Trigger.dev, Python, 01 SDK.
+Python, FastAPI, TypeScript, Next.js, PostgreSQL, Claude Code, Claude Agent SDK, MCP servers.
 
 ### Contact
 
-* https://01.inc/
-* alf @ 01.inc
+* https://01.inc
+* alf@01.inc
